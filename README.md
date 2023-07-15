@@ -56,4 +56,4 @@ For any questions or support, please contact the project contributors.
 
 Happy managing your courier operations efficiently with the Courier Management System!
 
-This project is based on or includes code snippets from [Website Name](https://www.mediafire.com/file/70lpc1cfbx1fdhr/GO-Courier.rar/file) Credits and thanks go to the original authors for their contributions.
+This project is based on or includes code snippets from [mediafire](https://www.mediafire.com/file/70lpc1cfbx1fdhr/GO-Courier.rar/file) Credits and thanks go to the original authors for their contributions.
